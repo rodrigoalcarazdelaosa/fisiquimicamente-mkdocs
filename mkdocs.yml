@@ -1,0 +1,166 @@
+site_name: FisiQuímicamente
+site_url: https://fisiquimicamente.com
+site_author: Rodrigo Alcaraz de la Osa
+site_description: Recursos de Física y Química, tutoriales y ciencia de actualidad
+
+copyright: "&copy; 2020&ndash;2024 Rodrigo Alcaraz de la Osa"
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: es
+  features:
+    - content.tooltips
+    - header.autohide
+    - search.suggest
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Cambiar a modo claro
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: green
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: white
+      accent: green
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a automático
+  font:
+    text: EB Garamond
+    code: Inconsolata
+  favicon: assets/media/favicon.png
+  icon:
+    logo: material/atom
+
+plugins:
+  - blog
+  - search
+  - social
+  - tags
+
+extra:
+  social:
+    - icon: social/x
+      link: https://x.com/fqmente
+      name: Síguenos en X
+    - icon: social/instagram
+      link: https://www.instagram.com/fisiquimicamente/
+      name: Síguenos en Instagram
+    - icon: social/pinterest
+      link: https://www.pinterest.es/fisiquimicamente/
+      name: Síguenos en Pinterest
+    - icon: social/telegram
+      link: https://t.me/fisiquimicamente
+      name: Suscríbete a nuestro canal de Telegram
+    - icon: social/whatsapp
+      link: https://whatsapp.com/channel/0029VaCbtJCIt5s4EryJFG3f
+      name: Suscríbete a nuestro canal de Whatsapp
+    - icon: social/discord
+      link: https://discord.gg/kJqPqTJ
+      name: Únete a nuestro servidor de Discord
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      permalink_title: Enlace a esta sección
+      title: En esta página
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - stylesheets/extra.css
+  - https://unpkg.com/katex@0/dist/katex.min.css
+
+nav:
+  - ⚛️ Recursos FyQ:
+    - recursos-fisica-quimica/index.md
+    - 📚 Apuntes:
+      - recursos-fisica-quimica/apuntes/index.md
+      - 📗 2.º ESO:
+        - recursos-fisica-quimica/apuntes/2eso/index.md
+        - La actividad científica: recursos-fisica-quimica/apuntes/2eso/actividad-cientifica.md
+        - La materia: recursos-fisica-quimica/apuntes/2eso/materia.md
+        - Estructura atómica: recursos-fisica-quimica/apuntes/2eso/estructura-atomica.md
+        - Elementos y compuestos: recursos-fisica-quimica/apuntes/2eso/elementos-compuestos.md
+        - Reacciones químicas: recursos-fisica-quimica/apuntes/2eso/reacciones-quimicas.md
+        - Movimiento: recursos-fisica-quimica/apuntes/2eso/movimiento.md
+        - Fuerzas: recursos-fisica-quimica/apuntes/2eso/fuerzas.md
+        - Energía: recursos-fisica-quimica/apuntes/2eso/energia.md
+        - Electricidad-electrónica: recursos-fisica-quimica/apuntes/2eso/electricidad-electronica.md
+      - 📘 3.º ESO:
+        - recursos-fisica-quimica/apuntes/3eso/index.md
+        - La actividad científica: recursos-fisica-quimica/apuntes/3eso/actividad-cientifica.md
+        - La materia: recursos-fisica-quimica/apuntes/3eso/materia.md
+        - Gases: recursos-fisica-quimica/apuntes/3eso/gases.md
+        - Estructura atómica: recursos-fisica-quimica/apuntes/3eso/estructura-atomica.md
+        - Elementos y compuestos: recursos-fisica-quimica/apuntes/3eso/elementos-compuestos.md
+        - Reacciones químicas: recursos-fisica-quimica/apuntes/3eso/reacciones-quimicas.md
+        - Energía: recursos-fisica-quimica/apuntes/3eso/energia.md
+        - Electricidad-electrónica: recursos-fisica-quimica/apuntes/3eso/electricidad-electronica.md
+      - 📙 4.º ESO:
+        - recursos-fisica-quimica/apuntes/4eso/index.md
+      - 📕 1.º Bach:
+        - recursos-fisica-quimica/apuntes/1bach/index.md
+      - 📓 2.º Bach:
+        - recursos-fisica-quimica/apuntes/2bach/index.md
+    - 🗒️ Actividades: recursos-fisica-quimica/actividades/index.md
+    - 🧩 Juegos: recursos-fisica-quimica/juegos/index.md
+    - 🧪 Prácticas de laboratorio: recursos-fisica-quimica/practicas-laboratorio/index.md
+    - 📖 Historia de la Ciencia: recursos-fisica-quimica/historia-ciencia/index.md
+    - 🎓 EBAU: recursos-fisica-quimica/EBAU/index.md
+    - 🧑‍🏫 Formación del profesorado: recursos-fisica-quimica/formacion-profesorado/index.md
+    - ☢️ Radiofísica: recursos-fisica-quimica/radiofisica/index.md
+  - 🤝 Tutoriales:
+    - tutoriales/index.md
+    - LaTeX: tutoriales/latex/index.md
+    - Presentación de información: tutoriales/presentacion-informacion/index.md
+  - 🔗 Enlaces de interés:
+    - enlaces-interes/index.md
+    - 💻 Recursos online: enlaces-interes/recursos-online/index.md
+    - 🤗 Páginas amigas: enlaces-interes/paginas-amigas/index.md
+  - ✍️ Blog:
+    - blog/index.md
+  - 👥 Equipo:
+    - equipo/index.md
+  - 📬 Contacto:
+    - contacto/index.md
