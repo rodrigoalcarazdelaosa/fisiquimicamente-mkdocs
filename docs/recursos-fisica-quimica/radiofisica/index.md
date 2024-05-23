@@ -1,1 +1,6 @@
+---
+hide:
+  - toc
+---
+
 # ☢️ Radiofísica

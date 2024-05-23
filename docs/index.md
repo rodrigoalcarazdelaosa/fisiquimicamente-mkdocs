@@ -1,3 +1,7 @@
-# FisiQuímicamente
+---
+hide:
+  - navigation
+  - toc
+---
 
-## Hola
+# FisiQuímicamente

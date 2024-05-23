@@ -155,7 +155,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
     Juega a **identificar** el **instrumental** básico de **laboratorio** con [esta genial **adaptación** del juego de cartas **Dobble**]({{< relref "/juegos-segundo-tercero-eso/dobble-instrumentos-laboratorio" >}}), el juego [**¡Atrápalo!**]({{< relref "/juegos-segundo-tercero-eso/atrapalo" >}}) o las [**tarjetas**](https://drive.google.com/drive/folders/1fXglHz9nq0EfVzLDEIRKqPGG9VOWL_Pb) de [Berto Tomás](https://twitter.com/af_bertotomas), en colaboración con el [Dr. Vieta](https://twitter.com/pquimic).
 
 <figure markdown="span">
-    ![Instrumental](/assets/media/actividad-cientifica-2eso-3eso/instrumental.svg){ width="100%" }
+    ![Instrumental](/assets/media/actividad-cientifica-2eso-3eso/instrumental.svg){ width="100%" class="on-glb" }
     <figcaption>[Iconos creados por Freepik de Flaticon](https://www.flaticon.com/packs/laboratory-equipment)</figcaption>
 </figure>
 
@@ -181,47 +181,47 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 <div class="grid" markdown>
 
 <figure markdown="span">
-    ![Explosivo](/assets/media/actividad-cientifica-2eso-3eso/explosivo.svg){ width="100%" }
+    ![Explosivo](/assets/media/actividad-cientifica-2eso-3eso/explosivo.svg){ width="100%" class="on-glb" }
     <figcaption>Explosivo</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Inflamable](/assets/media/actividad-cientifica-2eso-3eso/inflamable.svg){ width="100%" }
+    ![Inflamable](/assets/media/actividad-cientifica-2eso-3eso/inflamable.svg){ width="100%" class="on-glb" }
     <figcaption>Inflamable</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Comburente](/assets/media/actividad-cientifica-2eso-3eso/comburente.svg){ width="100%" }
+    ![Comburente](/assets/media/actividad-cientifica-2eso-3eso/comburente.svg){ width="100%" class="on-glb" }
     <figcaption>Comburente</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Gas a presión](/assets/media/actividad-cientifica-2eso-3eso/gas-presion.svg){ width="100%" }
+    ![Gas a presión](/assets/media/actividad-cientifica-2eso-3eso/gas-presion.svg){ width="100%" class="on-glb" }
     <figcaption>Gas a presión</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Corrosivo](/assets/media/actividad-cientifica-2eso-3eso/corrosivo.svg){ width="100%" }
+    ![Corrosivo](/assets/media/actividad-cientifica-2eso-3eso/corrosivo.svg){ width="100%" class="on-glb" }
     <figcaption>Corrosivo</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Toxicidad aguda](/assets/media/actividad-cientifica-2eso-3eso/toxicidad-aguda.svg){ width="100%" }
+    ![Toxicidad aguda](/assets/media/actividad-cientifica-2eso-3eso/toxicidad-aguda.svg){ width="100%" class="on-glb" }
     <figcaption>Toxicidad aguda</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Peligro para la salud/Peligroso para la capa de ozono](/assets/media/actividad-cientifica-2eso-3eso/peligro-salud.svg){ width="100%" }
+    ![Peligro para la salud/Peligroso para la capa de ozono](/assets/media/actividad-cientifica-2eso-3eso/peligro-salud.svg){ width="100%" class="on-glb" }
     <figcaption>Peligro para la saluda/Peligroso para la capa de ozono</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Peligro grave para la salud](/assets/media/actividad-cientifica-2eso-3eso/peligro-grave-salud.svg){ width="100%" }
+    ![Peligro grave para la salud](/assets/media/actividad-cientifica-2eso-3eso/peligro-grave-salud.svg){ width="100%" class="on-glb" }
     <figcaption>Peligro grave para la salud</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Peligroso para el medio ambiente](/assets/media/actividad-cientifica-2eso-3eso/peligroso-medio-ambiente.svg){ width="100%" }
+    ![Peligroso para el medio ambiente](/assets/media/actividad-cientifica-2eso-3eso/peligroso-medio-ambiente.svg){ width="100%" class="on-glb" }
     <figcaption>Peligroso para el medio ambiente</figcaption>
 </figure>
 
