@@ -1,6 +1,0 @@
-[submodule "overrides/revealjs"]
-	path = overrides/revealjs
-	url = https://github.com/hakimel/reveal.js
-[submodule "reveal.js"]
-	path = reveal.js
-	url = https://github.com/hakimel/reveal.js

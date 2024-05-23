@@ -53,6 +53,7 @@ theme:
 plugins:
   - blog
   - glightbox:
+      height: 100vh
       manual: true
   - search
   - social
@@ -120,25 +121,17 @@ nav:
       - recursos-fisica-quimica/apuntes/index.md
       - 📗 2.º ESO:
         - recursos-fisica-quimica/apuntes/2eso/index.md
-        - La actividad científica: recursos-fisica-quimica/apuntes/2eso/actividad-cientifica.md
-        - La materia: recursos-fisica-quimica/apuntes/2eso/materia.md
-        - Estructura atómica: recursos-fisica-quimica/apuntes/2eso/estructura-atomica.md
-        - Elementos y compuestos: recursos-fisica-quimica/apuntes/2eso/elementos-compuestos.md
-        - Reacciones químicas: recursos-fisica-quimica/apuntes/2eso/reacciones-quimicas.md
-        - Movimiento: recursos-fisica-quimica/apuntes/2eso/movimiento.md
-        - Fuerzas: recursos-fisica-quimica/apuntes/2eso/fuerzas.md
-        - Energía: recursos-fisica-quimica/apuntes/2eso/energia.md
-        - Electricidad-electrónica: recursos-fisica-quimica/apuntes/2eso/electricidad-electronica.md
+        - La actividad científica: recursos-fisica-quimica/apuntes/2eso/actividad-cientifica/index.md
+        - La materia: recursos-fisica-quimica/apuntes/2eso/materia/index.md
+        - Estructura atómica: recursos-fisica-quimica/apuntes/2eso/estructura-atomica/index.md
+        - Elementos y compuestos: recursos-fisica-quimica/apuntes/2eso/elementos-compuestos/index.md
+        - Reacciones químicas: recursos-fisica-quimica/apuntes/2eso/reacciones-quimicas/index.md
+        - Movimiento: recursos-fisica-quimica/apuntes/2eso/movimiento/index.md
+        - Fuerzas: recursos-fisica-quimica/apuntes/2eso/fuerzas/index.md
+        - Energía: recursos-fisica-quimica/apuntes/2eso/energia/index.md
+        - Electricidad-electrónica: recursos-fisica-quimica/apuntes/2eso/electricidad-electronica/index.md
       - 📘 3.º ESO:
         - recursos-fisica-quimica/apuntes/3eso/index.md
-        - La actividad científica: recursos-fisica-quimica/apuntes/3eso/actividad-cientifica.md
-        - La materia: recursos-fisica-quimica/apuntes/3eso/materia.md
-        - Gases: recursos-fisica-quimica/apuntes/3eso/gases.md
-        - Estructura atómica: recursos-fisica-quimica/apuntes/3eso/estructura-atomica.md
-        - Elementos y compuestos: recursos-fisica-quimica/apuntes/3eso/elementos-compuestos.md
-        - Reacciones químicas: recursos-fisica-quimica/apuntes/3eso/reacciones-quimicas.md
-        - Energía: recursos-fisica-quimica/apuntes/3eso/energia.md
-        - Electricidad-electrónica: recursos-fisica-quimica/apuntes/3eso/electricidad-electronica.md
       - 📙 4.º ESO:
         - recursos-fisica-quimica/apuntes/4eso/index.md
       - 📕 1.º Bach:

@@ -1,1 +1,0 @@
-# Electricidad-electrónica

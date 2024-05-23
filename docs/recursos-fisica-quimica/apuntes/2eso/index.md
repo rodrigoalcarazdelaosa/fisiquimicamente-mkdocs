@@ -12,11 +12,11 @@ hide:
     ---
 
     <figure markdown="span">
-    ![Image title](/assets/media/actividad-cientifica-2eso-3eso/featured.webp){ width="100%" }
+    ![Image title](actividad-cientifica/featured.webp){ width="100%" }
     </figure>
 
     Método científico. Medidas de magnitudes. Laboratorio escolar.
 
-    [📚 Apuntes](actividad-cientifica) [🧑‍🏫 Diapositivas](actividad-cientifica-slides) [📜 Póster](/assets/media/actividad-cientifica-2eso-3eso/actividad-cientifica-poster.pdf)
+    [📚 Apuntes](actividad-cientifica/index.md) [🧑‍🏫 Diapositivas](actividad-cientifica/diapositivas) [📜 Póster](actividad-cientifica/actividad-cientifica-poster.pdf)
 
 </div>
