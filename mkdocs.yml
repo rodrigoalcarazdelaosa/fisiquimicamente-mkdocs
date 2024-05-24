@@ -10,6 +10,7 @@ theme:
   custom_dir: overrides
   language: es
   features:
+    - announce.dismiss
     - content.tooltips
     - header.autohide
     - search.suggest
@@ -84,6 +85,11 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -157,5 +163,4 @@ nav:
     - blog/index.md
   - 👥 Equipo:
     - equipo/index.md
-  - 📬 Contacto:
-    - contacto/index.md
+  - 📬 Contacto: "#contacto"
