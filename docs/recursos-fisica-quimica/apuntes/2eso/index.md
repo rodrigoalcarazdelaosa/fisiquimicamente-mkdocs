@@ -7,13 +7,11 @@ hide:
 
 <div class="grid cards" markdown>
 
--   **La actividad científica**
+-   ![Image title](actividad-cientifica/featured.webp){ width="100%" }
+
+    **La actividad científica**
 
     ---
-
-    <figure markdown="span">
-    ![Image title](actividad-cientifica/featured.webp){ width="100%" }
-    </figure>
 
     Método científico. Medidas de magnitudes. Laboratorio escolar.
 

@@ -61,7 +61,7 @@ plugins:
 
 extra:
   social:
-    - icon: social/x
+    - icon: social/X
       link: https://x.com/fqmente
       name: Síguenos en X
     - icon: social/instagram
@@ -147,7 +147,7 @@ nav:
     - ☢️ Radiofísica: recursos-fisica-quimica/radiofisica/index.md
   - 🤝 Tutoriales:
     - tutoriales/index.md
-    - LaTeX: tutoriales/latex/index.md
+    - $\LaTeX$: tutoriales/latex/index.md
     - Presentación de información: tutoriales/presentacion-informacion/index.md
   - 🔗 Enlaces de interés:
     - enlaces-interes/index.md
