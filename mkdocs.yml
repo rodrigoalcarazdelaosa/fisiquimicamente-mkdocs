@@ -14,8 +14,6 @@ theme:
     - content.tooltips
     - header.autohide
     - search.suggest
-    - navigation.instant
-    - navigation.instant.progress
     - navigation.tracking
     - navigation.sections
     - navigation.tabs
@@ -164,4 +162,4 @@ nav:
     - blog/index.md
   - 👥 Equipo:
     - equipo/index.md
-  - 📬 Contacto: "#contacto"
+  - 📬 Contacto: "/#contacto"

@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 
+{% block libs %}
+{{ super() }}
+<script type="module" src="https://unpkg.com/@lottiefiles/dotlottie-wc@latest/dist/dotlottie-wc.js"></script>
+{% endblock %}
+
 {% block announce %}
 ✍️ Nueva <strong>entrada</strong> disponible en el <strong>blog</strong>. Pincha <a href="/#novedades">aquí</a> para descubrir esta y otras <strong>novedades</strong>.
 {% endblock %}

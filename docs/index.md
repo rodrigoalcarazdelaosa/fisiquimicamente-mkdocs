@@ -4,31 +4,29 @@ hide:
   - toc
 ---
 
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.js"></script>
-
 ![Logo](/assets/media/logo-fisiquimicamente.svg#only-light){ width="100%" } ![Logo](/assets/media/logo-fisiquimicamente-dark.svg#only-dark){ width="100%" }
 
-![Image title](https://dummyimage.com/600x150/eee/aaa){ align=right }
+<div class="grid" markdown>
 
-## Recursos de Física y Química, tutoriales y ciencia de actualidad
+<span style="margin: 1.6em 0 .64em; font-size: 1.5625em; font-weight: 300; line-height: 1.4; letter-spacing: -0.01em;">Recursos de Física y Química, tutoriales y ciencia de actualidad</span><br>**Suscríbete** al [**canal** de :social-telegram: **Telegram**](https://t.me/fisiquimicamente) o al [**canal** de :social-whatsapp: **Whatsapp**](https://whatsapp.com/channel/0029VaCbtJCIt5s4EryJFG3f) si no quieres perderte ninguna actualización.<br>[**Únete** al **servidor** de :social-discord: **Discord**](https://discord.gg/kJqPqTJ) para participar activamente en la web, comentando, dando tu opinión, realizando peticiones, sugerencias...
 
-**Suscríbete** al [**canal** de :social-telegram: **Telegram**](https://t.me/fisiquimicamente) o al [**canal** de :social-whatsapp: **Whatsapp**](https://whatsapp.com/channel/0029VaCbtJCIt5s4EryJFG3f) si no quieres perderte ninguna actualización.
+<dotlottie-wc autoplay loop mode="normal" src="assets/media/lottie/logo.lottie#only-light" style="width: 100%; height: auto; margin-left: auto; margin-right: auto"></dotlottie-wc><dotlottie-wc autoplay loop mode="normal" src="assets/media/lottie/logo-dark.lottie#only-dark" style="width: 100%; height: auto; margin-left: auto; margin-right: auto"></dotlottie-wc>
 
-[**Únete** al **servidor** de :social-discord: **Discord**](https://discord.gg/kJqPqTJ) para participar activamente en la web, comentando, dando tu opinión, realizando peticiones, sugerencias...
+</div>
 
 <div class="grid" align="center" markdown>
 
-[<dotlottie-player autoplay loop mode="normal" src="assets/media/lottie/recursos-fisica-quimica.lottie" style="width: 50%; height: auto"></dotlottie-player>](recursos-fisica-quimica)<br>[**Recursos de Física y Química**](recursos-fisica-quimica)<br>[📚&nbsp;Apuntes](recursos-fisica-quimica/apuntes) · [🗒️&nbsp;Actividades](recursos-fisica-quimica/actividades) · [🧩&nbsp;Juegos](recursos-fisica-quimica/juegos) · [🧪&nbsp;Prácticas de laboratorio](recursos-fisica-quimica/practicas-laboratorio) · [📖&nbsp;Historia de la Ciencia](recursos-fisica-quimica/historia-ciencia) · [🎓&nbsp;EBAU](recursos-fisica-quimica/EBAU) · [🧑‍🏫&nbsp;Formación del profesorado](recursos-fisica-quimica/formacion-profesorado) · [☢️&nbsp;Radiofísica](recursos-fisica-quimica/radiofisica)
+[<dotlottie-wc autoplay loop mode="normal" src="assets/media/lottie/recursos-fisica-quimica.lottie#only-light" style="width: 100%; height: auto"></dotlottie-wc><dotlottie-wc autoplay loop mode="normal" src="assets/media/lottie/recursos-fisica-quimica-dark.lottie#only-dark" style="width: 100%; height: auto"></dotlottie-wc>](recursos-fisica-quimica)<br>[**Recursos de Física y Química**](recursos-fisica-quimica)<br>[📚&nbsp;Apuntes](recursos-fisica-quimica/apuntes) · [🗒️&nbsp;Actividades](recursos-fisica-quimica/actividades) · [🧩&nbsp;Juegos](recursos-fisica-quimica/juegos) · [🧪&nbsp;Prácticas de laboratorio](recursos-fisica-quimica/practicas-laboratorio) · [📖&nbsp;Historia de la Ciencia](recursos-fisica-quimica/historia-ciencia) · [🎓&nbsp;EBAU](recursos-fisica-quimica/EBAU) · [🧑‍🏫&nbsp;Formación del profesorado](recursos-fisica-quimica/formacion-profesorado) · [☢️&nbsp;Radiofísica](recursos-fisica-quimica/radiofisica)
 
-[<dotlottie-player autoplay loop mode="normal" src="assets/media/lottie/tutoriales.lottie" style="width: 50%; height: auto"></dotlottie-player>](tutoriales)<br>[**Tutoriales**](tutoriales)<br>[$\LaTeX$](tutoriales/latex) · [Presentación de la información](tutoriales/presentacion-informacion/)
+[<dotlottie-wc autoplay loop mode="normal" src="assets/media/lottie/tutoriales.lottie" style="width: 100%; height: auto"></dotlottie-wc>](tutoriales)<br>[**Tutoriales**](tutoriales)<br>[$\LaTeX$](tutoriales/latex) · [Presentación de la información](tutoriales/presentacion-informacion/)
 
-[<dotlottie-player autoplay loop mode="normal" src="assets/media/lottie/enlaces-interes.lottie" style="width: 50%; height: auto"></dotlottie-player>](enlaces-interes)<br>[**Enlaces de interés**](enlaces-interes)<br>[💻&nbsp;Recursos online](enlaces-interes/recursos-online) · [🤗&nbsp;Páginas amigas](enlaces-interes/paginas-amigas)
+[<dotlottie-wc autoplay loop mode="normal" src="assets/media/lottie/enlaces-interes.lottie" style="width: 100%; height: auto"></dotlottie-wc>](enlaces-interes)<br>[**Enlaces de interés**](enlaces-interes)<br>[💻&nbsp;Recursos online](enlaces-interes/recursos-online) · [🤗&nbsp;Páginas amigas](enlaces-interes/paginas-amigas)
 
-[<dotlottie-player autoplay loop mode="normal" src="assets/media/lottie/blog.lottie" style="width: 50%; height: auto"></dotlottie-player>](blog)<br>[**Blog**](blog)
+[<dotlottie-wc autoplay loop mode="normal" src="assets/media/lottie/blog.lottie" style="width: 100%; height: auto"></dotlottie-wc>](blog)<br>[**Blog**](blog)
 
-[<dotlottie-player autoplay loop mode="normal" src="assets/media/lottie/equipo.lottie" style="width: 50%; height: auto"></dotlottie-player>](equipo)<br>[**Conoce al equipo**](equipo)
+[<dotlottie-wc autoplay loop mode="normal" src="assets/media/lottie/equipo.lottie" style="width: 100%; height: auto"></dotlottie-wc>](equipo)<br>[**Conoce al equipo**](equipo)
 
-[<dotlottie-player autoplay loop mode="normal" src="assets/media/lottie/contacto.lottie" style="width: 50%; height: auto"></dotlottie-player>](#contacto)<br>[**Contacto**](#contacto)
+[<dotlottie-wc autoplay loop mode="normal" src="assets/media/lottie/contacto.lottie" style="width: 100%; height: auto"></dotlottie-wc>](#contacto)<br>[**Contacto**](#contacto)
 
 </div>
 

@@ -1,6 +1,6 @@
-//html {
-//  font-size: calc(125% * 1.5); /* <- 1.1 equals + 10% – adjust to taste */
-//}
+html {
+  font-size: calc(125% * 1.5); /* <- 1.1 equals + 10% – adjust to taste */
+}
 
 .video-container {
   position: relative;
@@ -15,4 +15,16 @@
   width: 100%;
   height: 100%;
   border: 0;
+}
+
+[data-md-color-scheme="slate"] {
+  dotlottie-wc[src$="#only-light"] {
+    display: none;
+  }
+}
+
+[data-md-color-scheme="default"] {
+  dotlottie-wc[src$="#only-dark"] {
+    display: none;
+  }
 }
