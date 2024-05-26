@@ -79,6 +79,9 @@ extra:
     - icon: social/discord
       link: https://discord.gg/kJqPqTJ
       name: Únete a nuestro servidor de Discord
+    - icon: material/coffee
+      link: /donativos
+      name: Invítanos a un café
 
 markdown_extensions:
   - admonition
@@ -131,18 +134,38 @@ nav:
         - Estructura atómica: recursos-fisica-quimica/apuntes/2eso/estructura-atomica/index.md
         - Elementos y compuestos: recursos-fisica-quimica/apuntes/2eso/elementos-compuestos/index.md
         - Reacciones químicas: recursos-fisica-quimica/apuntes/2eso/reacciones-quimicas/index.md
-        - Movimiento: recursos-fisica-quimica/apuntes/2eso/movimiento/index.md
-        - Fuerzas: recursos-fisica-quimica/apuntes/2eso/fuerzas/index.md
+        - El movimiento: recursos-fisica-quimica/apuntes/2eso/movimiento/index.md
+        - Las fuerzas: recursos-fisica-quimica/apuntes/2eso/fuerzas/index.md
         - Energía: recursos-fisica-quimica/apuntes/2eso/energia/index.md
         - Electricidad-electrónica: recursos-fisica-quimica/apuntes/2eso/electricidad-electronica/index.md
       - 📘 3.º ESO:
         - recursos-fisica-quimica/apuntes/3eso/index.md
+        - La actividad científica: recursos-fisica-quimica/apuntes/3eso/actividad-cientifica/index.md
+        - La materia: recursos-fisica-quimica/apuntes/3eso/materia/index.md
+        - Leyes de los gases: recursos-fisica-quimica/apuntes/3eso/leyes-gases/index.md
+        - Estructura atómica: recursos-fisica-quimica/apuntes/3eso/estructura-atomica/index.md
+        - Radiactividad: recursos-fisica-quimica/apuntes/3eso/radiactividad/index.md
+        - Elementos y compuestos: recursos-fisica-quimica/apuntes/3eso/elementos-compuestos/index.md
+        - Reacciones químicas: recursos-fisica-quimica/apuntes/3eso/reacciones-quimicas/index.md
+        - Energía: recursos-fisica-quimica/apuntes/3eso/energia/index.md
+        - Electricidad-electrónica: recursos-fisica-quimica/apuntes/3eso/electricidad-electronica/index.md
       - 📙 4.º ESO:
         - recursos-fisica-quimica/apuntes/4eso/index.md
+        - La actividad científica: recursos-fisica-quimica/apuntes/4eso/actividad-cientifica/index.md
+        - Modelos atómicos: recursos-fisica-quimica/apuntes/4eso/modelos-atomicos/index.md
+        - Sistema periódico: recursos-fisica-quimica/apuntes/4eso/sistema-periodico/index.md
+        - Enlace químico: recursos-fisica-quimica/apuntes/4eso/enlace-quimico/index.md
+        - Reacciones químicas: recursos-fisica-quimica/apuntes/4eso/reacciones-quimicas/index.md
+        - Movimientos: recursos-fisica-quimica/apuntes/4eso/movimientos/index.md
+        - Fuerzas: recursos-fisica-quimica/apuntes/4eso/fuerzas/index.md
+        - Fluidos: recursos-fisica-quimica/apuntes/4eso/fluidos/index.md
+        - Energía, trabajo y calor: recursos-fisica-quimica/apuntes/4eso/energia-trabajo-calor/index.md
       - 📕 1.º Bach:
         - recursos-fisica-quimica/apuntes/1bach/index.md
       - 📓 2.º Bach:
         - recursos-fisica-quimica/apuntes/2bach/index.md
+      - 📔 Formulación y nomenclatura de Química:
+        - recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/index.md
     - 🗒️ Actividades: recursos-fisica-quimica/actividades/index.md
     - 🧩 Juegos: recursos-fisica-quimica/juegos/index.md
     - 🧪 Prácticas de laboratorio: recursos-fisica-quimica/practicas-laboratorio/index.md

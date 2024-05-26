@@ -36,11 +36,9 @@ hide:
 
 <div class="grid cards" markdown>
 
--   ![Image title](actividad-cientifica/featured.webp){ width="100%" }
+-   [<dotlottie-wc autoplay loop mode="normal" src="assets/media/lottie/hola.lottie" style="width: 100%; height: auto"></dotlottie-wc>](blog/posts/hola-mundo/index.md)
 
     **Hola Mundo**
-
-    ---
 
     Preguntas y respuestas.
 
@@ -72,16 +70,16 @@ hide:
 
 ## 📬 Contacto
 
-:fontawesome-solid-envelope: [contacto@fisiquimicamente.com](mailto:contacto@fisiquimicamente.com)
+[:fontawesome-solid-envelope: contacto@fisiquimicamente.com](mailto:contacto@fisiquimicamente.com)
 
-:fontawesome-brands-x-twitter: [Síguenos en X](https://x.com/fqmente)
+[:fontawesome-brands-x-twitter: Síguenos en X](https://x.com/fqmente)
 
-:fontawesome-brands-instagram: [Síguenos en Instagram](https://www.instagram.com/fisiquimicamente/)
+[:fontawesome-brands-instagram: Síguenos en Instagram](https://www.instagram.com/fisiquimicamente/)
 
-:fontawesome-brands-pinterest: [Síguenos en Pinterest](https://www.pinterest.es/fisiquimicamente/)
+[:fontawesome-brands-pinterest: Síguenos en Pinterest](https://www.pinterest.es/fisiquimicamente/)
 
-:fontawesome-brands-telegram: [Suscríbete a nuestro canal de Telegram](https://t.me/fisiquimicamente)
+[:fontawesome-brands-telegram: Suscríbete a nuestro canal de Telegram](https://t.me/fisiquimicamente)
 
-:fontawesome-brands-whatsapp: [Suscríbete a nuestro canal de Whatsapp](https://whatsapp.com/channel/0029VaCbtJCIt5s4EryJFG3f)
+[:fontawesome-brands-whatsapp: Suscríbete a nuestro canal de Whatsapp](https://whatsapp.com/channel/0029VaCbtJCIt5s4EryJFG3f)
 
-:fontawesome-brands-discord: [Únete a nuestro servidor de Discord](https://discord.gg/kJqPqTJ)
+[:fontawesome-brands-discord: Únete a nuestro servidor de Discord](https://discord.gg/kJqPqTJ)
