@@ -12,15 +12,3 @@
   height: 100%;
   border: 0;
 }
-
-[data-md-color-scheme="slate"] {
-  dotlottie-wc[src$="#only-light"] {
-    display: none;
-  }
-}
-
-[data-md-color-scheme="default"] {
-  dotlottie-wc[src$="#only-dark"] {
-    display: none;
-  }
-}
