@@ -1,8 +1,8 @@
 {% extends "base.html" %}
 
-{% block scripts %}
-<script type="module" src="https://unpkg.com/@lottiefiles/dotlottie-wc@latest/dist/dotlottie-wc.js"></script>
+{% block libs %}
 {{ super() }}
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
 {% endblock %}
 
 {% block announce %}

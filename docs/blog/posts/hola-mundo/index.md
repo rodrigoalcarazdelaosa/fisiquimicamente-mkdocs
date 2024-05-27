@@ -10,7 +10,7 @@ tags:
 
 # Hola Mundo
 
-<dotlottie-wc autoplay loop mode="normal" src="/assets/media/lottie/hola.lottie" style="width: 100%; height: auto"></dotlottie-wc>
+<tgs-player autoplay loop mode="normal" src="/assets/media/lottie/hola.tgs" style="width: 50%; height: auto"></tgs-player>
 
 Primera entrada del blog. Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar.
 
