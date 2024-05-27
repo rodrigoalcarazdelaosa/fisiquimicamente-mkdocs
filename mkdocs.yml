@@ -123,7 +123,7 @@ extra_css:
   - https://unpkg.com/katex@0/dist/katex.min.css
 
 nav:
-  - ⚛️ Recursos FyQ:
+  - 💼 Recursos FyQ:
     - recursos-fisica-quimica/index.md
     - 📚 Apuntes:
       - recursos-fisica-quimica/apuntes/index.md
@@ -162,10 +162,41 @@ nav:
         - Energía, trabajo y calor: recursos-fisica-quimica/apuntes/4eso/energia-trabajo-calor/index.md
       - 📕 1.º Bach:
         - recursos-fisica-quimica/apuntes/1bach/index.md
+        - Leyes fundamentales de la Química: recursos-fisica-quimica/apuntes/1bach/leyes-fundamentales-quimica/index.md
+        - Disoluciones: recursos-fisica-quimica/apuntes/1bach/disoluciones/index.md
+        - Reacciones químicas: recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas/index.md
+        - Cinemática vectorial: recursos-fisica-quimica/apuntes/1bach/cinematica-vectorial/index.md
+        - Movimiento parabólico: recursos-fisica-quimica/apuntes/1bach/movimiento-parabolico/index.md
+        - Movimiento circular: recursos-fisica-quimica/apuntes/1bach/movimiento-circular/index.md
+        - Estática y dinámica: recursos-fisica-quimica/apuntes/1bach/estatica-dinamica/index.md
+        - Energía y trabajo: recursos-fisica-quimica/apuntes/1bach/energia-trabajo/index.md
+        - Termodinámica: recursos-fisica-quimica/apuntes/1bach/termodinamica/index.md
       - 📓 2.º Bach:
         - recursos-fisica-quimica/apuntes/2bach/index.md
+        - Física:
+          - recursos-fisica-quimica/apuntes/2bach/fisica/index.md
+          - Interacción gravitatoria: recursos-fisica-quimica/apuntes/2bach/fisica/interaccion-gravitatoria/index.md
+          - Campo eléctrico: recursos-fisica-quimica/apuntes/2bach/fisica/campo-electrico/index.md
+          - Campo magnético: recursos-fisica-quimica/apuntes/2bach/fisica/campo-magnetico/index.md
+          - MAS: recursos-fisica-quimica/apuntes/2bach/fisica/MAS/index.md
+          - Ondas: recursos-fisica-quimica/apuntes/2bach/fisica/ondas/index.md
+          - Óptica: recursos-fisica-quimica/apuntes/2bach/fisica/optica/index.md
+          - Física del s. XX: recursos-fisica-quimica/apuntes/2bach/fisica/fisica-s-XX/index.md
+        - Química:
+          - recursos-fisica-quimica/apuntes/2bach/quimica/index.md
+          - Estructura de la materia: recursos-fisica-quimica/apuntes/2bach/quimica/estructura-materia/index.md
+          - Sistema periódico: recursos-fisica-quimica/apuntes/2bach/quimica/sistema-periodico/index.md
+          - Enlace químico: recursos-fisica-quimica/apuntes/2bach/quimica/enlace-quimico/index.md
+          - Termoquímica: recursos-fisica-quimica/apuntes/2bach/quimica/termoquimica/index.md
+          - Cinética química: recursos-fisica-quimica/apuntes/2bach/quimica/cinetica-quimica/index.md
+          - Equilibrio químico: recursos-fisica-quimica/apuntes/2bach/quimica/equilibrio-quimico/index.md
+          - Ácido-base: recursos-fisica-quimica/apuntes/2bach/quimica/acido-base/index.md
+          - Rédox: recursos-fisica-quimica/apuntes/2bach/quimica/redox/index.md
+          - Química orgánica: recursos-fisica-quimica/apuntes/2bach/quimica/quimica-organica/index.md
       - 📔 Formulación y nomenclatura de Química:
         - recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/index.md
+        - Inorgánica: recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/inorganica/index.md
+        - Orgánica: recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/organica/index.md
     - 🗒️ Actividades: recursos-fisica-quimica/actividades/index.md
     - 🧩 Juegos: recursos-fisica-quimica/juegos/index.md
     - 🧪 Prácticas de laboratorio: recursos-fisica-quimica/practicas-laboratorio/index.md

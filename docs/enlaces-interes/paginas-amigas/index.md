@@ -3,4 +3,4 @@ hide:
   - toc
 ---
 
-# Páginas amigas
+# 🤗 Páginas amigas

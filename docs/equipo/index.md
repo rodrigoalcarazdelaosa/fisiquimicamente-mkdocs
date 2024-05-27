@@ -4,5 +4,5 @@ hide:
   - toc
 ---
 
-# Equipo
+# 👥 Equipo
 

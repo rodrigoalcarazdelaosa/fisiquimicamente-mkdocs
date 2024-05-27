@@ -10,7 +10,7 @@ hide:
 
 <span style="margin: 1.6em 0 .64em; font-size: 1.5625em; font-weight: 300; line-height: 1.4; letter-spacing: -0.01em;">Recursos de Física y Química, tutoriales y ciencia de actualidad</span><br>**Suscríbete** al [**canal** de :social-telegram: **Telegram**](https://t.me/fisiquimicamente) o al [**canal** de :social-whatsapp: **Whatsapp**](https://whatsapp.com/channel/0029VaCbtJCIt5s4EryJFG3f) si no quieres perderte ninguna actualización.<br>[**Únete** al **servidor** de :social-discord: **Discord**](https://discord.gg/kJqPqTJ) para participar activamente en la web, comentando, dando tu opinión, realizando peticiones, sugerencias...
 
-<tgs-player autoplay loop mode="normal" src="assets/media/lottie/logo.tgs" style="width: 50%; height: auto; margin-left: auto; margin-right: auto"></tgs-player>
+<tgs-player autoplay loop mode="normal" src="assets/media/lottie/logo.tgs" style="width: 75%; height: auto; margin-left: auto; margin-right: auto"></tgs-player>
 
 </div>
 

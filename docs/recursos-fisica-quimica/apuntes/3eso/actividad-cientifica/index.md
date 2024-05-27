@@ -6,6 +6,8 @@ tags:
 
 # La actividad científica
 
+[🧑‍🏫 Diapositivas](diapositivas){ .md-tag } [📜 Póster](actividad-cientifica-poster.pdf){ .md-tag }
+
 <figure markdown="span">
     ![Featured](featured.webp){ width="100%" }
     <figcaption>Foto de [**Hans Reniers**](https://unsplash.com/@hansreniers) en [Unsplash](https://unsplash.com)</figcaption>

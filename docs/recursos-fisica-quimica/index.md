@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# ⚛️ Recursos de Física y Química
+# 💼 Recursos de Física y Química
 
 <div class="grid cards" markdown>
 
