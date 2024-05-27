@@ -13,7 +13,7 @@ hide:
 
     Método científico. Medidas de magnitudes. Laboratorio escolar
 
-    [🧑‍🏫 Diapositivas](actividad-cientifica/diapositivas) · [📜 Póster](actividad-cientifica/actividad-cientifica-poster.pdf)
+    [🧑‍🏫 Diapositivas](actividad-cientifica/diapositivas){ .md-tag } [📜 Póster](actividad-cientifica/actividad-cientifica-poster.pdf){ .md-tag }
 
 -   [![La materia](materia/featured.webp){ width="100%" }](materia/index.md)
 
@@ -21,7 +21,7 @@ hide:
 
     Propiedades, estados de agregación y mezclas
 
-    [🧑‍🏫 Diapositivas](materia/diapositivas) · [📜 Póster](materia/materia-poster.pdf)
+    [🧑‍🏫 Diapositivas](materia/diapositivas){ .md-tag } [📜 Póster](materia/materia-poster.pdf){ .md-tag }
 
 -   [![Leyes de los gases](leyes-gases/featured.webp){ width="100%" }](leyes-gases/index.md)
 

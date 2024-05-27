@@ -1,3 +1,7 @@
+html {
+  font-size: calc(125% * 1.2); /* <- 1.1 equals + 10% – adjust to taste */
+}
+
 .video-container {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */

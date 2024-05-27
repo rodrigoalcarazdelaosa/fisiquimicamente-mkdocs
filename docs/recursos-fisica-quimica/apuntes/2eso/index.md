@@ -21,7 +21,7 @@ hide:
 
     Propiedades, estados de agregación y mezclas
 
-    [🧑‍🏫 Diapositivas](materia/diapositivas) · [📜 Póster](materia/materia-poster.pdf)
+    [🧑‍🏫 Diapositivas](materia/diapositivas){ .md-tag } [📜 Póster](materia/materia-poster.pdf){ .md-tag }
 
 -   [![Estructura atómica](estructura-atomica/featured.webp){ width="100%" }](estructura-atomica/index.md)
 

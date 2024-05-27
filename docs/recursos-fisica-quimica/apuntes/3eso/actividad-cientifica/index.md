@@ -1,9 +1,3 @@
----
-tags:
-- 🧲 Física
-- ⚗️ Química
----
-
 # La actividad científica
 
 [🧑‍🏫 Diapositivas](diapositivas){ .md-tag } [📜 Póster](actividad-cientifica-poster.pdf){ .md-tag }
